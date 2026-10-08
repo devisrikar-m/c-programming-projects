@@ -5,7 +5,7 @@ A growing repository of C programs I am building as a Computer Science & Design 
 ## 📂 Contents
 This repository includes various lab assignments, basic algorithms, and mini-projects.
 
-* **simple_calculator.c:** A command-line arithmetic calculator using `switch-case` and user input validation.
+* **[simple_calculator.c](./simple_calculator.c):** A command-line arithmetic calculator using `switch-case` and user input validation.
 
 ## 🚀 How to Run
 To compile and run any of the C files in this repository using a standard C compiler (like GCC):
