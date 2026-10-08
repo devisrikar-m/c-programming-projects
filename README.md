@@ -1,5 +1,3 @@
-# c-programming-projects
-A collection of C programming practice codes, lab assignments, and mini-projects from my B.Tech CSD coursework.
 # B.Tech CSD: C Programming Collection 💻
 
 A growing repository of C programs I am building as a Computer Science & Design (CSD) student to strengthen my programming fundamentals. 
